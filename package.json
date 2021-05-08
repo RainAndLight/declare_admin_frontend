@@ -12,7 +12,7 @@
         "core-js": "^3.4.3",
         "echarts": "^4.6.0",
         "element-ui": "^2.13.0",
-        "json-bigint": "^0.3.0",
+        "json-bigint": "^1.0.0",
         "lodash": "^4.17.15",
         "md5": "^2.2.1",
         "nprogress": "^0.2.0",
